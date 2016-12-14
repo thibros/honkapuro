@@ -1,0 +1,27 @@
+{
+	"name": "creative-bootstrap-template",
+	"version": "0.0.1",
+	"description": "Creative Start Bootstrap template",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.12.4",
+		"font-awesome": "^4.6.3"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BlackrockDigital/startbootstrap-creative"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express",
+		"bootstrap"
+	],
+	"license": "MIT"
+}
